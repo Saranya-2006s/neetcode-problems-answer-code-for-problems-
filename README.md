@@ -22,8 +22,8 @@ DAY_1:
 Java
 # Day 2 – NeetCode Practice (Java)
 
-This repository contains solutions for **Day 2** of my problem-solving practice using **Java**.
-The goal is to improve my understanding of **arrays, strings, and algorithmic thinking** through LeetCode problems.
+This repository contains solutions for **Day 2** of my coding practice using problems from the **NeetCode platform**.
+The goal is to strengthen my understanding of **arrays, strings, and problem-solving techniques** through consistent daily practice.
 
 ## Problems Solved
 
@@ -31,20 +31,20 @@ The goal is to improve my understanding of **arrays, strings, and algorithmic th
 
 **File:** `Day2_ValidAnagram.java`
 
-**Problem:**
-Given two strings `s` and `t`, determine if `t` is an anagram of `s`.
+**Problem Description:**
+Given two strings `s` and `t`, determine whether `t` is an anagram of `s`.
 
 **Approach:**
 
-* Check if both strings have the same length.
-* Count the frequency of characters.
-* If all character counts match, the strings are anagrams.
+* First check if both strings have the same length.
+* Count the frequency of characters in both strings.
+* If the frequency of all characters matches, the strings are anagrams.
 
-**Concepts Used:**
+**Concepts Practiced:**
 
-* String manipulation
+* String processing
 * Character frequency counting
-* Arrays
+* Hashing / arrays
 
 ---
 
@@ -52,16 +52,16 @@ Given two strings `s` and `t`, determine if `t` is an anagram of `s`.
 
 **File:** `Day2_IsSubsequence.java`
 
-**Problem:**
-Given two strings `s` and `t`, return `true` if `s` is a subsequence of `t`.
+**Problem Description:**
+Given two strings `s` and `t`, check whether `s` is a subsequence of `t`.
 
 **Approach:**
 
-* Use two pointers.
-* Traverse string `t` and match characters from `s`.
-* If all characters of `s` appear in order in `t`, then it is a subsequence.
+* Use the **two-pointer technique**.
+* Traverse string `t` while matching characters of `s`.
+* If all characters of `s` appear in order in `t`, then `s` is a subsequence of `t`.
 
-**Concepts Used:**
+**Concepts Practiced:**
 
 * Two-pointer technique
 * String traversal
@@ -72,29 +72,28 @@ Given two strings `s` and `t`, return `true` if `s` is a subsequence of `t`.
 
 **File:** `Day2_ReplaceElementsArray.java`
 
-**Problem:**
-Replace every element in the array with the greatest element among the elements to its right.
-The last element should be replaced with `-1`.
+**Problem Description:**
+Replace every element in the array with the **greatest element among the elements to its right**, and replace the last element with `-1`.
 
 **Approach:**
 
 * Traverse the array from **right to left**.
-* Keep track of the **maximum element seen so far**.
+* Maintain the **maximum value seen so far**.
 * Replace each element with the current maximum.
 
-**Concepts Used:**
+**Concepts Practiced:**
 
 * Array traversal
 * Reverse iteration
-* Tracking maximum value
+* Maximum element tracking
 
 ---
 
 ## Learning Outcome
 
-* Improved understanding of **string operations**
-* Practiced **array manipulation**
-* Learned **efficient traversal techniques**
+* Improved understanding of **array and string manipulation**
+* Practiced **efficient traversal techniques**
+* Strengthened **problem-solving skills using Java**
 
 ## Language Used
 
@@ -102,11 +101,8 @@ The last element should be replaced with `-1`.
 
 ---
 
-⭐ This repository is part of my **daily coding practice journey**.
+⭐ This repository is part of my **daily NeetCode coding practice journey**.
 
-## Goal
-To improve problem-solving and data structures & algorithms skills by solving problems daily.
-DAY_2:
-1.Valid Anagram
-2.Replace Elements in an Array 
-3.Subsequence in a String
+
+
+
