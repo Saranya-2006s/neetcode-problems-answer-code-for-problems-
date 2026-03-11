@@ -25,6 +25,10 @@ Java
 This repository contains solutions for **Day 2** of my coding practice using problems from the **NeetCode platform**.
 The goal is to strengthen my understanding of **arrays, strings, and problem-solving techniques** through consistent daily practice.
 
+DAY_2:
+1. Valid Anagram
+2. Is Subsequence
+3. Replace Elements with Greatest Element on Right Side
 ## Problems Solved
 
 ### 1. Valid Anagram
