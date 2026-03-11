@@ -1,6 +1,10 @@
 # NeetCode Problem Solutions (Java)
 
 This repository contains my daily solved problems from the NeetCode platform.
+DAY_1:
+1.Concatenation of Array
+2.Contains Duplicate
+3.Score of a String
 
 ## Problems Solved
 
@@ -18,5 +22,7 @@ This repository contains my daily solved problems from the NeetCode platform.
 Java
 
 ## Goal
-
 To improve problem-solving and data structures & algorithms skills by solving problems daily.
+DAY_2:
+1.Valid Anagram
+2.Replace Elements in an Array 
