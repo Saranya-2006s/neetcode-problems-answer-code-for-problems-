@@ -26,3 +26,4 @@ To improve problem-solving and data structures & algorithms skills by solving pr
 DAY_2:
 1.Valid Anagram
 2.Replace Elements in an Array 
+3.Subsequence in a String
