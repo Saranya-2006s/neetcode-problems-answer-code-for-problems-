@@ -20,7 +20,7 @@ DAY_1:
 ## Language
 
 Java
-# Day 2 – LeetCode Practice (Java)
+# Day 2 – NeetCode Practice (Java)
 
 This repository contains solutions for **Day 2** of my problem-solving practice using **Java**.
 The goal is to improve my understanding of **arrays, strings, and algorithmic thinking** through LeetCode problems.
