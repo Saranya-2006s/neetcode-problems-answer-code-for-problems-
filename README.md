@@ -106,6 +106,52 @@ Replace every element in the array with the **greatest element among the element
 ---
 
 ⭐ This repository is part of my **daily NeetCode coding practice journey**.
+# Day 3 – NeetCode Practice
+
+## Problems Solved
+
+Today I solved the following NeetCode problems using Java.
+
+DAY_3 PROBLEMS SOLVED:
+1.AppendCharacters.java
+2.LengthOfaLastWord.java
+3.MaxConsecutiveOnes.java
+
+
+1. **Append Characters to String to Make Subsequence**
+
+   * Problem: Given two strings `s` and `t`, find the minimum number of characters that must be appended to the end of `s` so that `t` becomes a subsequence of `s`.
+   * Approach: Used a **two-pointer technique** to match characters of `t` inside `s`.
+
+2. **Length of Last Word**
+
+   * Problem: Given a string containing words and spaces, return the length of the last word.
+   * Approach: Traverse the string from the end and count characters until a space appears.
+
+3. **Max Consecutive Ones**
+
+   * Problem: Given a binary array, find the maximum number of consecutive `1`s.
+   * Approach: Traverse the array and maintain a running count of consecutive ones while tracking the maximum.
+
+## Language Used
+
+Java
+
+## Files
+
+* `AppendCharacters.java`
+* `LengthOfLastWord.java`
+* `MaxConsecutiveOnes.java`
+
+## Learning
+
+* Practiced **string manipulation**
+* Used **two-pointer technique**
+* Improved **array traversal logic**
+
+## Status
+
+Completed 3 problems for Day 3 of NeetCode practice.
 
 
 
