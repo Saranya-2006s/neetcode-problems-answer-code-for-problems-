@@ -137,11 +137,6 @@ DAY_3 PROBLEMS SOLVED:
 
 Java
 
-## Files
-
-* `AppendCharacters.java`
-* `LengthOfLastWord.java`
-* `MaxConsecutiveOnes.java`
 
 ## Learning
 
